@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 //ver1
+//ver2
 @Controller
 public class HomeController2 {
 	
