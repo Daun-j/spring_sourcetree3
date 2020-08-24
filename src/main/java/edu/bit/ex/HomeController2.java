@@ -11,11 +11,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-//ver3
-//ver2
-//ver2-1
 //ver1
-//ver1-1
 @Controller
 public class HomeController2 {
 	
