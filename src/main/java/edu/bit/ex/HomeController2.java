@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 //ver1
 //ver2
+//develop ver1
 @Controller
 public class HomeController2 {
 	
